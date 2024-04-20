@@ -1,3 +1,6 @@
+
+-- All Data are automated Generated Data Using "generatedata.com".
+
 insert into Users(UserID,Username,Password,Email,Address,City,ZipCode,Country)VALUES(231,'gaurav_k09','3223','gauravkumar@gmail.com','Agrico','Jamshedpur','831009','India');
 insert into Users(UserID,Username,Password,Email,Address,City,ZipCode,Country)VALUES(452,'rishi_011','rk342','rishi@gmail.com','Baridih','Jamshedpur','831011','India');
 insert into Users(UserID,Username,Password,Email,Address,City,ZipCode,Country)VALUES(201,'Animesh_m01','09','animesh@gmail.com','Bistupur','Jamshedpur','831001','India');
@@ -169,6 +172,8 @@ insert into Brand(brandName)VALUES('Puma');
 insert into Brand(brandName)VALUES('Adidas');
 
 
+-- All Data are automated Generated Data Using "generatedata.com".
+
 insert into ServicePoint(spid,streetaddr,city,startTime,endTime)VALUES(0123,'P.O. Box 414, 4785 Euismod Rd.','Sokoto','2024-04-02','2024-04-10');
 insert into ServicePoint(spid,streetaddr,city,startTime,endTime)VALUES(0124,'Ap #379-4928 Per St.','Dornbirn','2024-02-22','2024-02-28');
 insert into ServicePoint(spid,streetaddr,city,startTime,endTime)VALUES(0125,'P.O. Box 414, 4785 Euismod Rd.','Smolensk','2024-01-04','2024-01-10');
@@ -179,6 +184,9 @@ insert into ServicePoint(spid,streetaddr,city,startTime,endTime)VALUES(0129,'Ap 
 insert into ServicePoint(spid,streetaddr,city,startTime,endTime)VALUES(0130,'4767 Urna, Rd.','Yekaterinburg','2023-11-22','2023-11-29');
 insert into ServicePoint(spid,streetaddr,city,startTime,endTime)VALUES(0131,'P.O. Box 494, 8339 Pellentesque Rd.','Ciudad Valles','2022-03-12','2022-03-17');
 insert into ServicePoint(spid,streetaddr,city,startTime,endTime)VALUES(0132,'Ap #161-3043 Est, St.','General Escobedo','2023-11-10','2023-11-17');
+
+
+-- All Data are automated Generated Data Using "generatedata.com".
 
 
 insert into Address(addrid,UserID,name,ContactPhoneNumber,city,streetaddr,postCode)VALUES(023,'2441','Bradley Houston','1-452-573-5007','Iqaluit','58-2294 Enim. St.','550123');
@@ -209,6 +217,8 @@ insert into Save_to_Shopping_Cart(UserID,ProductID,addTime,quantity)VALUES(256,1
 insert into Save_to_Shopping_Cart(UserID,ProductID,addTime,quantity)VALUES(222,127,'2024-01-24',2);
 insert into Save_to_Shopping_Cart(UserID,ProductID,addTime,quantity)VALUES(454,128,'2022-04-26',5);
 
+
+-- All Data are automated Generated Data Using "generatedata.com".
 
 insert into Transcations(TranscationID,OrderID,Amount,TranscationDate,PaymentMethod)VALUES('TXN123456789','90','2024-04-09','Credit Card');
 insert into Transcations(TranscationID,OrderID,Amount,TranscationDate,PaymentMethod)VALUES('TXN987654321','91','2023-03-11','PayPal');
